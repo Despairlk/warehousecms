@@ -1,0 +1,29 @@
+[
+  {
+    "id": 7,
+    "pId": 2,
+    "title": "客户管理",
+    "href": "/bus/toCustomerManager",
+    "icon": "&#xe651;",
+    "spread": false,
+    "children": []
+  },
+  {
+    "id": 8,
+    "pId": 2,
+    "title": "供应商管理",
+    "href": "/bus/toProviderManager",
+    "icon": "&#xe658;",
+    "spread": false,
+    "children": []
+  },
+  {
+    "id": 9,
+    "pId": 2,
+    "title": "商品管理",
+    "href": "/bus/toGoodsManager",
+    "icon": "&#xe657;",
+    "spread": false,
+    "children": []
+  }
+]
